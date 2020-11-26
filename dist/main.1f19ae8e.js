@@ -152,7 +152,7 @@ var step = function step() {
       step();
       n++;
     } else {}
-  }, 0);
+  }, 30);
 };
 
 step();
